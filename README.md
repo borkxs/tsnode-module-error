@@ -3,7 +3,7 @@
 ## not working
 
 ```sh
-git checkout 5767a2c
+git checkout 72ffccd
 npm start
 ```
 
@@ -19,6 +19,6 @@ The error goes away when an empty `tsconfig.json` file is present.
 ## working
 
 ```sh
-git checkout 72ffccd
+git checkout 5767a2c
 npm start
 ```
